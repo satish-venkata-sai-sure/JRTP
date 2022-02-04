@@ -9,13 +9,10 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Helldieiojdioo World!" );
-        System.out.println("Hi");
-
-        public void(String b)
-
-        
-        {
-            int x=0;
-        }
+        System.out.println("Hi Satish hello");
+        int a=0;
+		/*
+		 * public void name(String b) { int x=0; }
+		 */
     }
 }
